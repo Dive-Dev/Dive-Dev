@@ -1,18 +1,37 @@
+## 👨‍💻 About Me
 
-Here's a concise and engaging README for your GitHub profile repository:
+Focused on building strong fundamentals in **Cloud Engineering, AI Systems, Data Engineering, and Enterprise-Scale Architectures**.
 
-Hi, I'm Divesh S! 👋
-Welcome to my GitHub! I'm a tech enthusiast with a passion for blockchain development, AI-powered learning systems, and web development using Vite.js.
+Currently learning and working on:
 
-🔭 What I'm working on:
-Building blockchain solutions 🌐
-Exploring AI and machine learning 🤖
-Developing web applications ⚡
-🌱 Currently learning:
-Advanced blockchain technologies 🔗
-React and Vite.js for frontend development ⚙️
-📫 Get in touch:
-📧 Email: diveshswork@gmail.com
-🌍 GitHub: https://github.com/Dive-Dev
-⚡ Fun fact:
-I love experimenting with new technologies and creating impactful projects! 🌟
+* ☁️ Cloud platforms (AWS, Azure, GCP)
+* ⚙️ Automation & DevOps (CI/CD, Infrastructure as Code)
+* 🧠 System Design & Distributed Systems
+* 📊 Data Engineering (ETL pipelines, data processing, cloud data tools)
+
+🎯 **Long-term Goal:** Become an Enterprise Architect
+
+I also gain practical exposure through real-world IT environments, working on **IT supply and solutions**, including enterprise infrastructure and client-facing systems.
+
+---
+
+## 🚀 Opportunities
+
+I’m open to:
+
+* Cloud / AI / Data / DevOps roles (Fresher)
+* Internships
+* Learning-focused opportunities
+
+---
+
+## 🤝 Collaboration & Business
+
+Businesses seeking support in:
+
+* IT Infrastructure
+* Cloud Solutions
+* Data & Analytics Solutions
+* Digital Enablement
+
+Feel free to connect and collaborate.
