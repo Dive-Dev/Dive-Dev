@@ -23,19 +23,28 @@ I’m open to:
 
 * Software / Cloud / AI / Data / Blockchain / DevOps roles (Fresher)
 * Internships
+* Freelance projects (development, cloud setup, automation, and tech consulting)
 * Learning-focused opportunities
 
 ---
 
-## 🤝 Collaboration & Business
+## 💼 Freelance & Services
 
-Businesses seeking support in:
+I work with individuals, startups, and businesses on:
 
-* Software Development
-* IT Infrastructure
-* Cloud Solutions
+* Software Development (APIs, backend systems)
+* Cloud Setup & Deployment
+* DevOps & Automation (CI/CD pipelines)
 * Data & Analytics Solutions
 * Blockchain & Web3 Solutions
-* Digital Enablement
+* IT Infrastructure & Digital Enablement
 
-Feel free to connect and collaborate.
+---
+
+## 📬 Contact
+
+For collaborations, freelance work, or opportunities:
+
+📧 [diveshswork@gmail.com](mailto:diveshswork@gmail.com)
+
+Let’s build scalable and impactful solutions together 🚀
